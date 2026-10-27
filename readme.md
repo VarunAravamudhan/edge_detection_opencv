@@ -132,7 +132,6 @@ plt.show()
 ---
 
 ## Output
-![alt text](image.png)
 
 ### Sobel Edge Detector
 
@@ -158,6 +157,10 @@ plt.show()
 
 * Multi-stage edge detection
 * Produces clean and thin edges
+
+<img width="1248" height="692" alt="image" src="https://github.com/user-attachments/assets/4cdd150b-a85f-4669-bfe7-e2a99fdbd2d6" />
+
+
 
 ---
 
