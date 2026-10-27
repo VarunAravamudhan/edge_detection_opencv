@@ -132,7 +132,7 @@ plt.show()
 ---
 
 ## Output
-![alt text](../image.png)
+![alt text](image.png)
 
 ### Sobel Edge Detector
 
