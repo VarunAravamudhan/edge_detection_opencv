@@ -132,8 +132,7 @@ plt.show()
 ---
 
 ## Output
-
-*(Note: When submitting your record, paste the Matplotlib grid screenshot containing all 6 subplots here)*
+![alt text](../image.png)
 
 ### Sobel Edge Detector
 
